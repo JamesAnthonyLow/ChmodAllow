@@ -3,8 +3,9 @@ Make executable and run, or not
 
 Chmod is awesome and powerful but for a beginner like me
 I don't use all of those options when I'm just writing simple
-bash scripts.  I wrote this scripte to save myself some typing
-here's how it works.
+bash scripts.  I wrote this script to save myself some typing.
+
+Here's how it works:
 
 Instead of typing 'chmod +x "filename.sh"'
 
